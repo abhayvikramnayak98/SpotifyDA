@@ -1,0 +1,130 @@
+{
+  "tracks": [
+    {
+      "artist": "Mohit Chauhan",
+      "album": "Rang Lageya",
+      "track": "Rang Lageya",
+      "uri": "spotify:track:7mSzDKajY2wUtstQSLdzMK"
+    },
+    {
+      "artist": "Hesham Abdul Wahab",
+      "album": "Aradhya (From \"Kushi\") (Hindi)",
+      "track": "Aradhya (From \"Kushi\") (Hindi)",
+      "uri": "spotify:track:7kfHrxpXz0uDJjj5yBpnQz"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Gobinda Chandra",
+      "album": "Jatia Baba",
+      "uri": "spotify:album:7l9MNHP1j7KYCy6cLWurVr"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Best of Yaadon Ka Idiot Box with Neelesh Misra",
+      "publisher": "BIGFM",
+      "uri": "spotify:show:3yjpZrdjV8jNSjRyVxuUUK"
+    },
+    {
+      "name": "Commander Karan Saxena ",
+      "publisher": "Spotify Studios",
+      "uri": "spotify:show:3xowEYdps9dYdwpNmUkac2"
+    },
+    {
+      "name": "Filmy Nerdy Podcasts",
+      "publisher": "Shaikh Mukhtar Alam",
+      "uri": "spotify:show:0ONUHEvidgISA9UQpiGWUm"
+    },
+    {
+      "name": "Mission ISRO with Harsha Bhogle",
+      "publisher": "Spotify Studios",
+      "uri": "spotify:show:2JXFCMLGVhTBtdz1WYxd4H"
+    },
+    {
+      "name": "Red FM Bauaa",
+      "publisher": "Red FM",
+      "uri": "spotify:show:68Ch2zbImTMTn4GNZn9Udq"
+    },
+    {
+      "name": "Shrimad Bhagvad Gita (श्रीमद् भगवद् गीता)",
+      "publisher": "Shemaroo",
+      "uri": "spotify:show:5dE3gampuX2wunptH1bjTc"
+    },
+    {
+      "name": "Stories From India",
+      "publisher": "Narada Muni",
+      "uri": "spotify:show:2Doc72X6nJMPKHItxXNHtn"
+    },
+    {
+      "name": "The Stories of Mahabharata",
+      "publisher": "Sudipta Bhawmik",
+      "uri": "spotify:show:0A6kWKFEOFtp8fkrpnAJQB"
+    },
+    {
+      "name": "Yaadon Ka Idiot Box with Neelesh Misra",
+      "publisher": "BIGFM",
+      "uri": "spotify:show:1hEkMqSqpsOkgCb1kwKK3E"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Pritam",
+      "album": "Ami Je Tomar (Kartik X Vidya)",
+      "track": "Ami Je Tomar (Kartik X Vidya)",
+      "uri": "spotify:track:0XMgDXVvDen04Rl0iB1YNr"
+    }
+  ],
+  "artists": [
+    {
+      "name": "A.R. Rahman",
+      "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+    },
+    {
+      "name": "Adnan Sami",
+      "uri": "spotify:artist:0kJO65h553i1iGsZutBuqz"
+    },
+    {
+      "name": "Anirudh Ravichander",
+      "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+    },
+    {
+      "name": "D. Imman",
+      "uri": "spotify:artist:1QcBqYUeQ4Ux3itkdDaFi0"
+    },
+    {
+      "name": "Ilaiyaraaja",
+      "uri": "spotify:artist:3m49WVMU4zCkaVEKb8kFW7"
+    },
+    {
+      "name": "KK",
+      "uri": "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+    },
+    {
+      "name": "Kamal Haasan",
+      "uri": "spotify:artist:5asJ8jtjk36r5PW5upyJm6"
+    },
+    {
+      "name": "M. M. Keeravani",
+      "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+    },
+    {
+      "name": "S. P. Balasubrahmanyam",
+      "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+    },
+    {
+      "name": "Shankar-Ehsaan-Loy",
+      "uri": "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+    },
+    {
+      "name": "Yuvan Shankar Raja",
+      "uri": "spotify:artist:6AiX12wXdXFoGJ2vk8zBjy"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
