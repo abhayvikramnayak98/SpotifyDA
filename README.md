@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Spotify Logo](./spotifylogo.gif)
+
 Welcome to the Spotify Data Analysis project! This project is designed to help you analyze your Spotify listening habits and identify the top 10 artists and songs you've listened to per hour. The analysis is presented through Jupyter Notebooks and visualizations using popular Python libraries such as Numpy, Pandas, Matplotlib, and Seaborn.
 
 ## Getting Started
