@@ -74,8 +74,9 @@ After running the analysis, the following visualizations are generated:
 
 ![Unique Artists](./unique_artists.png)
 
-Feel free to explore, customize, and share your findings based on the insights gained from the analysis!
+**Note:** The visualizations are done on the data user provided here, so, please download your user data before doing the project.
 
+Feel free to explore, customize, and share your findings based on the insights gained from the analysis!
 
 Enjoy exploring your Spotify data! 🎶
 
